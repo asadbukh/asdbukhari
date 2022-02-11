@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Learn more about golang
 - ⚡ Fun fact: I love to play Foosball
 
-<!-- ### Connect with me: -->
+### Connect with me:
 
 <!--
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
