@@ -1,4 +1,4 @@
-# Hi there, I'm Asad 👋
+# Hi there, I'm Asad Bukhari👋
 
 ## I'm a Student, Developer, and Teacher!!
 
