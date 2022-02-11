@@ -1,4 +1,4 @@
-# Hi there, I'm Asad - [codeSTACKr][youtube] 👋
+# Hi there, I'm Asad 👋
 
 ## I'm a Student, Developer, and Teacher!!
 
